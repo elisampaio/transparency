@@ -299,8 +299,8 @@ aside {
   line-height: 1.3em;
   color: white;
   position: relative;
-  top: 48%;
-  transform: translateY(-48%);
+  top: 46%;
+  transform: translateY(-46%);
 }
 
 /* MEDIA QUERRIES ----------------------------------------------------------- */
