@@ -43,23 +43,21 @@ body {
 
 @font-face {
   font-family: 'Bitter';
-  src: url('fonts/Bitter-VariableFont_wght.ttf') format('truetype-variations');
+  src: url('/fonts/Bitter-VariableFont_wght.ttf') format('truetype-variations');
   font-weight: 100 900;
 }
 
 @font-face {
   font-family: 'Bitter italic';
-  src: url('fonts/Bitter-Italic-VariableFont_wght.ttf') format('truetype-variations');
+  src: url('/fonts/Bitter-Italic-VariableFont_wght.ttf') format('truetype-variations');
   font-weight: 100 900;
 }
 
 @font-face {
   font-family: 'Archivo';
-  src: url('fonts/Archivo-VariableFont_wdth,wght.ttf') format('truetype-variations');
+  src: url('/fonts/Archivo-VariableFont_wdth,wght.ttf') format('truetype-variations');
   font-weight: 100 900;
 }
-
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400&display=swap');
 
 body, html {
   height: 100%;
@@ -73,7 +71,7 @@ main {
   font-family: 'Bitter';
   font-weight: 400;
   /* background-color: black; */
-  background-color: rgb(250, 250, 250);
+  background-color: rgb(5, 250, 30);
 }
 
 .privacy {
