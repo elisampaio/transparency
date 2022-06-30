@@ -43,19 +43,19 @@ body {
 
 @font-face {
   font-family: 'Bitter';
-  src: url('/fonts/Bitter-VariableFont_wght.ttf') format('truetype-variations');
+  src: url('fonts/Bitter-VariableFont_wght.ttf') format('truetype-variations');
   font-weight: 100 900;
 }
 
 @font-face {
   font-family: 'Bitter italic';
-  src: url('/fonts/Bitter-Italic-VariableFont_wght.ttf') format('truetype-variations');
+  src: url('fonts/Bitter-Italic-VariableFont_wght.ttf') format('truetype-variations');
   font-weight: 100 900;
 }
 
 @font-face {
   font-family: 'Archivo';
-  src: url('/fonts/Archivo-VariableFont_wdth,wght.ttf') format('truetype-variations');
+  src: url('fonts/Archivo-VariableFont_wdth,wght.ttf') format('truetype-variations');
   font-weight: 100 900;
 }
 
@@ -137,7 +137,7 @@ strong {
 }
 
 aside {
-  font-family: 'Inter';
+  font-family: 'Archivo';
   font-size: 15px;
   font-weight: 300;
   background-color: #0B0B0B;
